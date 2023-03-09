@@ -1,0 +1,20 @@
+.container {
+  width: 100%;
+  height: calc(100vh - 130px);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+
+}
+
+.sidenav {
+  padding: 20px;
+}
+
+.sidenav-content {
+  position: relative;
+}
+
+.sidenav-content button {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
